@@ -12,7 +12,7 @@ Welcome to **Automated Email Responder**, the ultimate tool for anyone tired of 
 
 1. **Create a New Google Apps Script Project** 🛠️  
    Simply copy the code into a new project.  
-   ([How to create an Apps Script project](https://developers.google.com/apps-script/guides/projects))
+   ([Create a new project](script.new))
 
 2. **Set Up a Gmail Label** 🏷️  
    Create a Gmail label named `Automatic reply will be sent shortly`.  
