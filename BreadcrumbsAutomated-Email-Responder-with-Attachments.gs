@@ -1,7 +1,7 @@
 function sendFormattedEmail() {
   // Define label and file IDs
   var labelName = 'Automatic reply will be sent shortly';
-  var fileIds = ['1WcmJi1gPhwKjfs_AeIV3TP3aADoYyZmx', '1MJsgiOO_RADyi5ymY4lR4ezxszrioIAu', '1MMMWnin5eIHNRtj6IUYz5cH0KW8bh1zR'];
+  var fileIds = ['example-id1', 'example-id2', 'example-id3'];
 
   // Get all emails marked with the label
   var label = GmailApp.getUserLabelByName(labelName);
